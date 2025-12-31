@@ -1,0 +1,24 @@
+name: crest
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - numpy
+  - matplotlib
+  - scipy
+  - pandas
+  - nomkl
+  - astropy
+  - astroquery
+  - sunpy
+  - sunpy-soar
+  - hvpy
+  - notebook
+  - jupyterlab
+  - ipywidgets
+  - ipyvuetify
+  - anywidget
+  - ipympl
+  - solara=1.54
+  - tabulate
+  - traitlets
