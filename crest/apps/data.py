@@ -13,6 +13,7 @@ import solara
 import sunpy.map
 
 import crest.data.hv.ds
+import crest.data.hv.ds_dlmenu
 import crest.components.containers.daccordions
 
 
